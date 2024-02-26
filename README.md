@@ -50,6 +50,14 @@ As you can see there are no duplicated rows
 
 ## Data Cleaning
 
+### Addressing Duplicate, Missing, or Null Data
+Despite the cleanliness of the dataset, it's crucial to recognize that real-world data often presents challenges. In instances where duplicate, missing, or null data might be encountered, this assessment phase would typically be the stage to strategize and implement solutions. Common actions include:
+- **Duplicate Data:** Identification and removal or consolidation based on business rules.
+- **Missing or Null Data:** Decision on imputation methods, deletion, or acknowledgment in subsequent analysis.
+
+Fortunately, the current dataset did not require such interventions, allowing for a streamlined transition to the subsequent phases of data exploration and analysis.
+
+The absence of data quality issues during the assessment stage is a positive indicator, facilitating a more efficient and focused analysis process.
 
 
 
