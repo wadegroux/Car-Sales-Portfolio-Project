@@ -20,3 +20,5 @@ The primary objective of this data analysis project is to provide a comprehensiv
 
 Feel free to explore the project, review the analysis process, and contribute to further enhancements. Your insights and feedback are highly appreciated!
 
+## Data Sourcing
+The dataset utilized in this analysis project was sourced from Kaggle, a popular platform for datasets and data science competitions. Specifically, the dataset covers a comprehensive collection of car sales transactions and associated details. The original dataset, contributed by Kaggle user Vasu Avasthi, was obtained from Kaggle's dataset repository.
