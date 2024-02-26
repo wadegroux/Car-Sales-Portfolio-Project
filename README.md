@@ -40,7 +40,7 @@ Now I will Identify columns with missing values. I can do this by using 'COUNT' 
 
 I did this for every column and there were no missing values
 
-## Check for Duplicates 
+**Check for Duplicates** 
 
 I will check for duplicatees to do this I need to identify duplicate rows in the dataset. Since column Car_id is a unique identifier for each row and should not have duplicate values I can use it to check for the presence of duplicate rows. 
 
@@ -58,6 +58,8 @@ Despite the cleanliness of the dataset, it's crucial to recognize that real-worl
 Fortunately, the current dataset did not require such interventions, allowing for a streamlined transition to the subsequent phases of data exploration and analysis.
 
 The absence of data quality issues during the assessment stage is a positive indicator, facilitating a more efficient and focused analysis process.
+
+## Exploratory Data Analysis "EDA"
 
 
 
