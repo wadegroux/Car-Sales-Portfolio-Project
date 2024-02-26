@@ -22,3 +22,34 @@ Feel free to explore the project, review the analysis process, and contribute to
 
 ## Data Sourcing
 The dataset utilized in this analysis project was sourced from Kaggle, a popular platform for datasets and data science competitions. Specifically, the dataset covers a comprehensive collection of car sales transactions and associated details. The original dataset, contributed by Kaggle user Vasu Avasthi, was obtained from Kaggle's dataset repository.
+
+## Data Assessment
+**Explore the Data:**
+
+I will use the select statement to examine a sample of rows from each table. This will allow me to understand the data types, ranges, and overall structure of my data table. 
+
+![image](https://github.com/wadegroux/Car-Sales-Portfolio-Project/assets/157087862/7fe916c5-1dcf-49b6-b633-6f2bc297ec0f)
+
+From looking at this I can see that I have 16 unique columns that contain various unique values. I can see that I have the Date of purchase for each sale the region of the sale and the various information about the cars that were purchased.
+
+**Check For Missing Values:**
+
+Now I will Identify columns with missing values. I can do this by using 'COUNT' and 'IS NULL' Conditions to assess missing values.
+
+![image](https://github.com/wadegroux/Car-Sales-Portfolio-Project/assets/157087862/b0777b17-75fe-48fd-b0ff-98fcf14cd399)
+
+I did this for every column and there were no missing values
+
+## Check for Duplicates 
+
+I will check for duplicatees to do this I need to identify duplicate rows in the dataset. Since column Car_id is a unique identifier for each row and should not have duplicate values I can use it to check for the presence of duplicate rows. 
+
+![image](https://github.com/wadegroux/Car-Sales-Portfolio-Project/assets/157087862/7a5b512f-7778-4eb0-9929-7d477a082dc0)
+
+As you can see there are no duplicated rows
+
+## Data Cleaning
+
+
+
+
