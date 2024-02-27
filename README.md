@@ -60,6 +60,67 @@ Fortunately, the current dataset did not require such interventions, allowing fo
 The absence of data quality issues during the assessment stage is a positive indicator, facilitating a more efficient and focused analysis process.
 
 ## Exploratory Data Analysis "EDA"
+### Access Data Distribution 
+I will write a query that will count the number of Unique Companies
 
+![image](https://github.com/wadegroux/Car-Sales-Portfolio-Project/assets/157087862/e50357a4-eec0-4e9e-9e3c-072be44e0c0a)
 
+There are 30 Different companies within the data table
+
+**Colors:**
+I will now write a query that shows how many different distinct colors there are in the dataset
+
+![image](https://github.com/wadegroux/Car-Sales-Portfolio-Project/assets/157087862/d160233a-76c3-4fa6-baf5-22d00f802c1a)
+
+There are only 3 unique color options for cars within the data table 
+
+**Models and their Counts:**
+I will write a query that will show me the unique models and how many of the sales are along with them
+
+![image](https://github.com/wadegroux/Car-Sales-Portfolio-Project/assets/157087862/91344df3-7959-46b5-a216-de867763a4fe)
+
+This allowed me to see that there are 154 different models and how many sales each of the models have
+
+### Analyze Numerical Counts
+**Summary Statistics for 'Price'**
+I will get summary statistics for price by finding out the average price, the minimum prize and the max price 
+
+![image](https://github.com/wadegroux/Car-Sales-Portfolio-Project/assets/157087862/63b0d6c9-6b5c-4787-b429-11d64f67ca79)
+
+**Summary Statistics for 'Annual Income'**
+I will also get the average min and max for the annual income column 
+
+![image](https://github.com/wadegroux/Car-Sales-Portfolio-Project/assets/157087862/7519734e-469c-4bae-9bf7-0478f065a3f5)
+
+### Identify Trends Overtime 
+**Monthly Sales Count Over Time**
+
+![image](https://github.com/wadegroux/Car-Sales-Portfolio-Project/assets/157087862/82dc76f4-39ee-4396-ad81-2eea43e85da5)
+
+This query uses the YEAR(Date) and Month(DATE) to extract the year and month from the 'Date' Column
+
+**Yearly Sales Count Over Time**
+
+![image](https://github.com/wadegroux/Car-Sales-Portfolio-Project/assets/157087862/3bf5a98e-3fe4-4fef-916a-319a7977a2b9)
+
+This shows me that 2023 had more sales than 2022
+
+**Monthly Average Price Over Time**
+
+![image](https://github.com/wadegroux/Car-Sales-Portfolio-Project/assets/157087862/b5ca9768-6731-4658-87ff-c1b38b38e8bf)
+
+### Explore Realtionships Between Variables 
+**Correlation Between Price and Annual Income**
+
+![image](https://github.com/wadegroux/Car-Sales-Portfolio-Project/assets/157087862/dd2268f9-88d2-49b9-b35e-ff5af88fe82f)
+
+**Grouped Analysis By Gender - Average Price and Sales Count
+
+![image](https://github.com/wadegroux/Car-Sales-Portfolio-Project/assets/157087862/eee4e20d-b560-47d7-abde-fe991b3000e9)
+
+**Regional Sales Analysis - Average Price and Sales Count**
+
+![image](https://github.com/wadegroux/Car-Sales-Portfolio-Project/assets/157087862/6cf15977-203e-4be6-a6dc-0538aa3100c5)
+
+## Data Modeling 
 
