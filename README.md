@@ -1,4 +1,4 @@
-# Car Sales Data Analysis Project
+# Regional Car Sales Data Analysis Project
 
 ![automobile-1291491_640](https://github.com/wadegroux/Car-Sales-Portfolio-Project/assets/157087862/cdfa0bc2-f4c2-4b08-9bfa-b59c9c5c2a3c)
 
@@ -123,8 +123,9 @@ This shows me that 2023 had more sales than 2022
 ![image](https://github.com/wadegroux/Car-Sales-Portfolio-Project/assets/157087862/6cf15977-203e-4be6-a6dc-0538aa3100c5)
 
 ## Data Visualization
-https://public.tableau.com/views/CarSalesPortfolioProject/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
-![Dashboard 1](https://github.com/wadegroux/Car-Sales-Portfolio-Project/assets/157087862/1af2e1af-4ec1-4f28-aa67-0b0c14b1c9c1)
+https://public.tableau.com/app/profile/wade.groux/viz/RegionalCarSalesAnalysis/Dashboard1
+![Dashboard 1](https://github.com/wadegroux/Car-Sales-Portfolio-Project/assets/157087862/e83f3287-1e80-4f74-bb17-24f70a29bb5d)
+
 
 ### Overview
 Welcome to the Car Sales Analysis Dashboard! This interactive dashboard has been meticulously crafted to provide compelling insights into our car sales data. From high-level Key Performance Indicators (KPIs) to detailed trends, it offers a comprehensive view of our sales landscape.
