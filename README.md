@@ -156,6 +156,7 @@ The dashboard includes interactive filters, empowering you to tailor the view ac
 
 • Date: Customize the view by selecting a specific date range.
 
+## Insights
 
 
 
