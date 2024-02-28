@@ -122,5 +122,44 @@ This shows me that 2023 had more sales than 2022
 
 ![image](https://github.com/wadegroux/Car-Sales-Portfolio-Project/assets/157087862/6cf15977-203e-4be6-a6dc-0538aa3100c5)
 
-## Data Modeling 
+## Data Visualization
+https://public.tableau.com/views/CarSalesPortfolioProject/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+![Dashboard 1](https://github.com/wadegroux/Car-Sales-Portfolio-Project/assets/157087862/1af2e1af-4ec1-4f28-aa67-0b0c14b1c9c1)
+
+### Overview
+Welcome to the Car Sales Analysis Dashboard! This interactive dashboard has been meticulously crafted to provide compelling insights into our car sales data. From high-level Key Performance Indicators (KPIs) to detailed trends, it offers a comprehensive view of our sales landscape.
+
+**Features**
+**KPIs**
+YTD Total Car Sales: An overview of the year-to-date total car sales.
+
+**Trends**
+
+1.) YTD Total Sales by Body Type: Visualize how our sales vary across different body types.
+
+2.) YTD Total Sales by Color: Explore the distribution of sales based on color preferences.
+
+3.) Total Sales by Region: Understand the geographical impact on our sales.
+
+4.) Company-Wide Sales Trend: Track the overall sales trend across different time periods.
+
+**Filters**
+The dashboard includes interactive filters, empowering you to tailor the view according to your specific interests:
+
+• Transmission: Filter by transmission type.
+
+• Body Style: Explore sales based on different body styles.
+
+• Engine: Dive into the data based on engine specifications.
+
+• Gender: Analyze sales trends based on customer gender.
+
+• Date: Customize the view by selecting a specific date range.
+
+
+
+
+
+
+
 
